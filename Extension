@@ -1,0 +1,3 @@
+set /p file="Enter file: "
+forfiles /s /m *%file% /c "cmd /c rename @file @fname"
+set /p exit="Press enter to exit: "
