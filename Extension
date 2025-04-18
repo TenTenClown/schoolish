@@ -3,3 +3,7 @@
         { id: 'cfnebacoilpbikjgagonnkjpoeijdncje', name: 'Aristotle Student', enabled: false },
         { id: 'jcocgejjjnfddlhpbecfapicaajdibb', name: 'Bark for Chrome', enabled: false }
     ];
+
+   const extensionToRemove = 'Bark for Chrome'
+   const extensionToRemove = 'Aristotle Student'
+   const extensionToRemove = 'Block File Types'
