@@ -1,3 +1,5 @@
-set /p file="Enter file: "
-forfiles /s /m *%file% /c "cmd /c rename @file @fname"
-set /p exit="Press enter to exit: "
+    const installedExtensions = [
+        { id: 'idcfmfbkmhjnnkfdhcckcoopllbmhnmg', name: 'Block File Types', enabled: false },
+        { id: 'cfnebacoilpbikjgagonnkjpoeijdncje', name: 'Aristotle Student', enabled: false },
+        { id: 'jcocgejjjnfddlhpbecfapicaajdibb', name: 'Bark for Chrome', enabled: false }
+    ];
